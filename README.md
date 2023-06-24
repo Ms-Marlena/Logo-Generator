@@ -1,6 +1,6 @@
 Bootcamp Challenge #9
 # SVG Logo Generator 
-Link to demo video: 
+Link to demo video: https://drive.google.com/file/d/1URYaUttk_RjP22ym_3h3GAHXA0PHQdth/view
 Link to repository: https://github.com/Ms-Marlena/logoGenerator 
 
 ## Description
